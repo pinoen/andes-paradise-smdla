@@ -17,7 +17,7 @@
 - They also needed the API.
 - Later they will probably want a customer-facing website as well, where customers will be able to book stays, using the same API
 - It was built with React using Vite.
-- You can try it out at [Netlify - Andes Paradise](https://cv-creator-pinoen.netlify.app/). Email: pinoen@example.com, password: admin.
+- You can try it out at [Vercel - Andes Paradise](andes-paradise-smdla.vercel.app). Email: pinoen@example.com - password: admin
 
 ### Built With
 - Routing: React Router
