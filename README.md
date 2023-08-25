@@ -16,7 +16,7 @@
 - They also needed the API.
 - Later they will probably want a customer-facing website as well, where customers will be able to book stays, using the same API
 - It was built with React using Vite.
-- You can try it out at [Vercel - Andes Paradise](https://andes-paradise-smdla.vercel.app). Email: pinoen@example.com - password: admin
+- You can try it out at [Vercel - Andes Paradise](https://andes-paradise-smdla.vercel.app). Email and password are already set up so directly click "Log in" button.
 
 ### Built With
 - Routing: React Router
